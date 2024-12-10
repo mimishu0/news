@@ -25,3 +25,5 @@
 将台路  23.084835080636267, 113.27424318629492
 
 
+https://masters.nus.edu.sg/programmes/master-of-science-(biomedical-engineering)
+https://www.ntu.edu.sg/sbs/admissions/programmes/graduate/coursework/Programme_Structure_and_Curriculum
