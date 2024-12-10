@@ -22,8 +22,5 @@
 鹤洞东  23.073684, 113.245882
 地缘  23.075897650010646, 113.25948997200271
 燕钢  23.079520, 113.266720
-将台路  23.084835080636267, 113.27424318629492
+江泰路  23.084835080636267, 113.27424318629492
 
-
-https://masters.nus.edu.sg/programmes/master-of-science-(biomedical-engineering)
-https://www.ntu.edu.sg/sbs/admissions/programmes/graduate/coursework/Programme_Structure_and_Curriculum
